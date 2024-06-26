@@ -1,0 +1,7 @@
+target/*
+!target/release
+target/release/*
+!target/release/libschnorrkelcbindings.h
+!target/release/libschnorrkelcbindings.so
+!target/release/libschnorrkelcbindings.d
+!target/release/libschnorrkelcbindings.a
