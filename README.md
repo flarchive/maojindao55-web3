@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of maojindao55/web3.** Not for installation: use [Packagist](https://packagist.org/packages/maojindao55/web3) or the [upstream repository](https://github.com/maojindao55/flarum-ext-web3).
 
-**0** versions archived · Latest: [`v0.3.7`](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.3.7) · License: `MIT` · Flarum: `^1.5.0`
+**19** versions archived · Latest: [`v0.3.7`](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.3.7) · License: `MIT` · Flarum: `^1.5.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.9` | 2024-06-26 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.1.9) |
+| `v0.2.0` | 2024-06-26 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-06-26 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.1) |
+| `v0.2.2` | 2024-06-26 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.2) |
+| `v0.2.3` | 2024-06-26 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.3) |
+| `v0.2.4` | 2024-06-28 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.4) |
+| `v0.2.5` | 2024-06-28 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.5) |
+| `v0.2.6` | 2024-06-28 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.6) |
+| `v0.2.7` | 2024-06-28 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.7) |
+| `v0.2.8` | 2024-06-28 | `^1.5.0` | [Browse](https://github.com/flarchive/maojindao55-web3/tree/archive/v0.2.8) |
+
+[View all 19 versions](https://github.com/flarchive/maojindao55-web3/tags)
 
 Catalog entry: [packages/maojindao55-web3.json](https://github.com/flarchive/archive-index/blob/main/packages/maojindao55-web3.json)
 
